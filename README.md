@@ -19,7 +19,7 @@ Install these on your machine before setup:
 
 PHP should include common Laravel extensions (especially `pdo_mysql`, `mbstring`, `openssl`, `xml`, `ctype`, `json`, `tokenizer`, `fileinfo`).
 
-## 1) Backend setup (Laravel)
+## 1 Backend setup (Laravel)
 
 Open a terminal in `Backend`:
 
@@ -60,7 +60,7 @@ This starts:
 - Queue worker
 - Vite for backend assets
 
-## 2) Frontend setup (Vue)
+## 2 Frontend setup (Vue)
 
 Open a second terminal in `Front End`:
 
